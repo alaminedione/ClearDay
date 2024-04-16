@@ -23,7 +23,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ClearDay.git
+   git clone https://github.com/alaminedione/ClearDay.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -37,10 +37,3 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    npm start
    ```
-
-
-
-
----
-Project Link: [https://github.com/your-username/clearday](https://github.com/alaminedione/ClearDay)
-Feel free to modify any part of this template to suit your specific needs and personal style!
