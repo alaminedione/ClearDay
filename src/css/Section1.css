@@ -1,0 +1,17 @@
+.section1 {
+  position: relative;
+  width: 453px;
+  height: 437px;
+  background: #f8f9faff; /* neutral-150 */
+  background:#f3f5f7;
+  border-radius: 0px;
+  box-shadow:
+    0px 4px 9px #1271,
+    0px 0px 2px #1271; /* shadow-m */
+  /* box-shadow: 0px 0px 0px 1px #1291; */
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  gap: 10px;
+}
