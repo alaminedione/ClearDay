@@ -9,7 +9,7 @@ Welcome to **ClearDay**, a simple yet powerful todo list app designed to help yo
 - **Edit Tasks:** Modify task details at any time.
 - **Delete Tasks:** Remove tasks you no longer need.
 - **Local Storage:** Your tasks and their statuses are saved locally, so you never lose track of your progress even after refreshing the page.
-- **Responsive Design:** Use **ClearDay** on any device, be it your desktop, tablet, or mobile.
+- **Responsive Design:** will be available soon !
 - **Task Summary:** Get an instant overview of completed, pending, and total tasks.
 
 ## Technology Stack
