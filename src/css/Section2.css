@@ -1,0 +1,112 @@
+.section2 {
+  width: 355px;
+  height: 437px;
+  background: #f8f9faff; /* neutral-150 */
+  background:#f3f5f7;
+  border-radius: 6px; /* border-l */
+  box-shadow:
+    0px 4px 9px #1271,
+    0px 0px 2px #1271; /* shadow-m*/
+  /* box-shadow: 0px 0px 0px 1px #1291; */
+}
+
+h2 {
+  margin-left: 10px;
+  font-family: Poppins;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 700;
+  color: #ee484dff; /* primary-500 */
+}
+
+.new-todo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  margin-left: 10px;
+  label {
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 700;
+  }
+  input {
+    width: 307px;
+    height: 36px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    border-radius: 4px; /* border-m */
+    background: #fcdcddff; /* primary-150 */
+    border-width: 0px;
+    outline: none;
+    /* &:hover { */
+    /*   color: #f27377ff; /* primary-400 */
+    /*   background: #fcdcddff; /* primary-150 */
+    /* } */
+    /* focused */
+    &:focused {
+      color: #bdc1caff; /* neutral-400 */
+      background: #ffffffff; /* white */
+    }
+    /* disabled */
+    &:disabled {
+      color: #f27377ff; /* primary-400 */
+      background: #fcdcddff; /* primary-150 */
+    }
+  }
+}
+
+.description {
+  margin-top: 10px;
+  margin-left: 11px;
+  label {
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 700;
+  }
+  textarea {
+    width: 307px;
+    height: 187px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 12px;
+    padding-right: 12px;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+    /* color: #bdc1caff; /* neutral-400 */
+    background: #eaecf0ff; /* neutral-250 */
+    border-radius: 4px; /* border-m */
+    outline-style: none;
+    border-style: none;
+    /* hover */
+    &:hover {
+      background: #eaecf0ff; /* neutral-250 */
+      border-color: #9095a1ff; /* neutral-500 */
+    }
+    /* focused */
+    &:focused {
+      background: #ffffffff; /* white */
+      border-color: #9095a1ff; /* neutral-500 */
+      box-shadow: 0px 0px 5px #9095a1;
+    }
+    /* disabled */
+    &:disabled {
+      color: #171a1fff; /* neutral-900 */
+      background: #f3f4f6ff; /* neutral-200 */
+    }
+  }
+}
+.action {
+  margin-top: 10px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
