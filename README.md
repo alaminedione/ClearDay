@@ -35,5 +35,5 @@ To get a local copy up and running, follow these simple steps:
    ```
 4. Run the application:
    ```bash
-   npm start
+   npm run dev
    ```
