@@ -38,4 +38,4 @@ To get a local copy up and running, follow these simple steps:
    npm run dev
    ```
 ## Screenshot
-![Clearday Image](https://github.com/alaminedione/ClearDay/edit/main/screenschot.png)
+![Clearday Image](https://github.com/alaminedione/ClearDay/blob/main/screenshot.png)
