@@ -5,12 +5,12 @@ Welcome to **ClearDay**, a simple yet powerful todo list app designed to help yo
 ## Features
 
 - **Add Tasks:** Quickly add new tasks with descriptions.
-- **Task Status Toggle:** Mark tasks as done or pending with a simple click.
+- **Task Status Toggle:** Mark tasks as done.
 - **Edit Tasks:** Modify task details at any time.
 - **Delete Tasks:** Remove tasks you no longer need.
 - **Local Storage:** Your tasks and their statuses are saved locally, so you never lose track of your progress even after refreshing the page.
-- **Responsive Design:** will be available soon !
-- **Task Summary:** Get an instant overview of completed, pending, and total tasks.
+- **Responsive Design:** will be available soon ! 
+- **Task Summary:** Get an instant overview of completed, uncompleted, and total tasks.
 
 ## Technology Stack
 
@@ -37,3 +37,5 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    npm run dev
    ```
+## Screenshot
+[Clearday Image](https://github.com/alaminedione/ClearDay/edit/main/screenschot)
